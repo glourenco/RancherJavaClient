@@ -1,2 +1,2 @@
 # RancherJavaClient
-Java Client for Rancher 2
+Java Client for Rancher api v3
